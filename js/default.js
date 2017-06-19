@@ -14,4 +14,4 @@ if(answer === number) {
 }
 
 
-docment.getElementById('choice').textContent = message;
+document.getElementById('choice').textContent = message;
